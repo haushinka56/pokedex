@@ -10,3 +10,7 @@ body.dark-mode {
 .dark-mode .pokemon-card:hover {
   background-color: #a8a8a8;
 }
+
+.dark-mode .pokemon-card .info {
+  border: 1px solid #f5f5f5;
+}
